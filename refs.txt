@@ -1,0 +1,4 @@
+http://pillow.readthedocs.io/en/3.0.x/reference/Image.html
+http://pillow.readthedocs.io/en/3.0.x/reference/ImageFont.html
+
+http://pillow.readthedocs.io/en/3.0.x/handbook/concepts.html#concept-modes
